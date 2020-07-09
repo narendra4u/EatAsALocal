@@ -1,5 +1,5 @@
-Design Project
+Part of Master's final Design Project
 
-Source in Dist folder.
+Source in Dist folder. Uses Node and Gulp for automating the project. This is only front-end with some JavaScript.
 
-Uses Node and Gulp for automating the project. Still in Progress. Work being done on Front End.
+The live version can be accessed here https://eatasalocal-e6998.web.app/
